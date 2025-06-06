@@ -9,14 +9,14 @@
 
 main:
   - title: "Publications"
-    url: isaksundelius.github.io/publications/
+    url: /publications/
 
   - title: "Talks"
-    url: isaksundelius.github.io/talks/    
+    url: /talks/    
 
   - title: "Teaching"
-    url: isaksundelius.github.io/teaching/    
+    url: /teaching/    
 
    - title: "CV"
-     url: /cv-json/
+     url: /cv/
 
