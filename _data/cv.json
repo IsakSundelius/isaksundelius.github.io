@@ -1,16 +1,13 @@
 {
   "basics": {
-    "name": "Your Sidebar Name",
-    "email": "none@example.org",
+    "name": "Isak Sundelius",
+    "email": "isak[dot]sundelius[at]math[dot]uu[dot]se",
     "phone": "",
     "website": "https://academicpages.github.io",
-    "summary": "Currently employed at Red Brick University. Short biography for the left-hand sidebar",
+    "summary": "I am a PhD student at Uppsala University",
     "location": {
-      "address": "",
-      "postalCode": "",
-      "city": "Earth",
-      "countryCode": "US",
-      "region": ""
+      "country": "Sweden",
+      "city": "Uppsala"
     },
     "profiles": [
       {
