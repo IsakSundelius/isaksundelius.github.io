@@ -25,7 +25,7 @@ author:
   avatar           : "profile.png"
   name             : "Isak G.S. Sundelius"
   bio              : "PhD student"
-  location         : "Uppsala"
+  location         : "Uppsala, Sweden"
   employer         : "Uppsala University"
   uri              : # URL
   email            : "isak[dot]sundelius[at]math[dot]uu[dot]se" 
@@ -33,7 +33,7 @@ author:
   # Academic websites
   academia         : # URL
   arxiv            : # URL - Update with the correct link to your profile
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : #"http://orcid.org/yourorcidurl"
 
   # Repositories and software development
   #bitbucket        : # Username - Update with your username on the site
