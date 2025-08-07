@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD student at Uppsala University in the Algebra and Representation Theory group. My supervisor is Prof. [Seidon Alsaody](https://www.uu.se/kontakt-och-organisation/personal?query=N9-61) and my co-supervisor is Prof. [Magdalena Larfors](https://www.uu.se/kontakt-och-organisation/personal?query=N3-1163).
+I am a PhD student at Uppsala University in the Algebra group. My supervisor is Assoc. Prof. [Seidon Alsaody](https://www.uu.se/kontakt-och-organisation/personal?query=N9-61) and my co-supervisor is Prof. [Magdalena Larfors](https://www.uu.se/kontakt-och-organisation/personal?query=N3-1163).
 
 I obtained my Master's degree from the Master's Programme in Mathematics, held jointly by Stockholm University and KTH Royal Institute of Technology. My [master's thesis](http://kth.diva-portal.org/smash/record.jsf?pid=diva2:1923800) was written under supervision of Prof. Georg Oberdieck.
 
