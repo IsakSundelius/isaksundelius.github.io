@@ -8,12 +8,12 @@ date: 2023-10-05
 location: "Lausanne, Switzerland"
 ---
 
+Speaker: Jean Lannes (Paris-Sorbonne)
+
 Soit G un groupe fini. Dans un célèbre article Quillen décrit en particulier un F-isomorphisme de F2-algèbres commutatives N-graduées                     
  
 qG : H∗(G; F2) → L(G) ,
  
 avec L(G) définie en termes des 2-groupes abéliens élémentaires contenus dans G. Nous montrerons que qG est en fait un isomorphisme pour trois familles de groupes finis : les groupes symétriques, les groupes alternés et les groupes de Coxeter finis.
-
-Speaker: Jean Lannes (Paris-Sorbonne)
 
 [Calendar entry](https://memento.epfl.ch/event/sur-lapplication-de-quillen-pour-la-cohomologie-mo/)
