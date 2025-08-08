@@ -15,4 +15,4 @@ Over the course of three days, participants got the chance to take part in minic
 
 Organisers: Xiangying Chen (OvGU Magdeburg), Danai Deligeorgaki (KTH), Oskar Henriksson (University of Copenhagen), Filip Jonsson Kling (Stockholm University), Felix Rydell (KTH), Mariel Supina (KTH)
 
-[Conference webpage](https://sites.google.com/view/applied-alg-comb-2023/graduate-student-meeting-on-applied-algebra-and-combinatorics)
+[Conference homepage](https://sites.google.com/view/applied-alg-comb-2023/graduate-student-meeting-on-applied-algebra-and-combinatorics)
