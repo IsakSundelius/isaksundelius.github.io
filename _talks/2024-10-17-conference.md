@@ -9,3 +9,5 @@ location: "Stockholm, Sweden"
 ---
 
 Organisers: Wushi Goldring (Stockholm University), Marion Jeannin (Stockholm University), Seidon Alsaody (Uppsala University)
+
+[Conference homepage](https://sites.google.com/view/alggrps2024/home)
