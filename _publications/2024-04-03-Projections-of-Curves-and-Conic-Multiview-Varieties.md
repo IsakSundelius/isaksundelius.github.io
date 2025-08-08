@@ -3,7 +3,7 @@ title: "Projections of Curves and Conic Multiview Varieties"
 collection: publications
 category: preprints
 permalink: /publication/2024-04-03-Projections-of-Curves-and-Conic-Multiview-Varieties
-
+excerpt: ''
 venue: ArXiv
 date: 2024-04-03
 
