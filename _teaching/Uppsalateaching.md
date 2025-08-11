@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate courses"
 permalink: /teaching/Uppsalateaching
 venue: "Uppsala University"
-date: 2024
+date: 2024-09-01
 location: "Uppsala, Sweden"
 ---
 
