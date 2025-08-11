@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate courses"
 permalink: /teaching/KTHteaching
 venue: "KTH Royal Institute of Technology"
-date: 2022
+date: 2022-03-01
 location: "Stockholm, Sweden"
 ---
 Teaching assistant
