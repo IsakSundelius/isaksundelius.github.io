@@ -9,7 +9,7 @@ location: "Stockholm, Sweden"
 ---
 Teaching assistant
 
-Numerical Methods, KTH SF1547 (Numeriska metoder, grundkurs)
+Numerical Methods, SF1547 (Numeriska metoder, grundkurs)
 ======
 
 Lab and teaching assistant, March - May 2022.
