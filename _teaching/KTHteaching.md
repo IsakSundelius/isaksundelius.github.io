@@ -2,9 +2,9 @@
 title: "KTH Royal Institute of Technology"
 collection: teaching
 type: "Undergraduate courses"
-permalink: /teaching/KTH_teaching
+permalink: /teaching/KTHteaching
 venue: "KTH Royal Institute of Technology"
-date:
+date: 2022
 location: "Stockholm, Sweden"
 ---
 Teaching assistant
