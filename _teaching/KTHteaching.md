@@ -1,7 +1,7 @@
 ---
 title: "KTH Royal Institute of Technology"
 collection: teaching
-type: "Undergraduate courses"
+type: "Undergraduate course"
 permalink: /teaching/KTHteaching
 venue: "KTH Royal Institute of Technology"
 date: 2022-03-01
