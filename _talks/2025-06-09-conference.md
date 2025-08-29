@@ -3,7 +3,7 @@ title: "Harmonies in Moduli Spaces"
 collection: talks
 type: "Conference"
 permalink: /talks/2025-06-09
-venue: "Universitá Roma Tre"
+venue: "Università Roma Tre"
 date: 2025-06-09 - 2025-06-13
 location: "Rome, Italy"
 ---
