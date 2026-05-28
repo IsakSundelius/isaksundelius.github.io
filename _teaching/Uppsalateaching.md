@@ -8,6 +8,8 @@ date: 2024-09-01
 location: "Uppsala, Sweden"
 ---
 
+Teaching assistant
+
 Linear Algebra II, 1MA024 60036 (Linjär algebra II)
 =====
 
