@@ -1,3 +1,4 @@
+---
 title: "G2-structures as Octonion Algebras"
 collection: publications
 category: preprints
